@@ -17,9 +17,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node http-server.js",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "echo\"Error: no test specified\"",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
